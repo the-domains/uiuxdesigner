@@ -4,16 +4,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.4805765
 color:
   saturation: 0.4517544
-  brandStrength: 0.6712632
-  lightness: 0.4310777
+  brandStrength: 0.1829574
+  lightness: 1
   brandColors:
     - '#B8B42D'
     - '#697A21'
@@ -21,6 +22,5 @@ color:
     - '#3E363F'
     - '#DD403A'
   rhythmicContrast: 0.6766917
-typography_spectrum: 0.4805765
-layout_spectrum: 0.3847118
+layout_spectrum: 0.4179198
 name: uiuxdesigner
