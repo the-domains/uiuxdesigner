@@ -1,3 +1,18 @@
+layout_spectrum: 0.4527520388364792
+typography_spectrum: 0.2230011010542512
+color:
+  saturation: 0.2288684535305947
+  brandStrength: 0.6693051331676543
+  lightness: 0.4730070543009788
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.5945229805074632
+coverPrefs:
+  filter: false
 collections:
   - index:
       path: /
@@ -10,17 +25,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.4805765
-color:
-  saturation: 0.4517544
-  brandStrength: 0.1829574
-  lightness: 1
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  rhythmicContrast: 0.6766917
-layout_spectrum: 0.4179198
 name: uiuxdesigner
