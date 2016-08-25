@@ -1,22 +1,28 @@
 ---
-description: ''
-author: []
-datePublished: '2016-02-28T07:55:16.391Z'
-publisher:
-  domain: ''
-  name: ''
+isBasedOnUrl: 'urn:uuid:ef8e8b4f-c317-4e04-a915-7f54d024eee0'
 title: Freshly Sketched
-dateModified: '2016-02-28T07:53:28.714Z'
+datePublished: '2016-08-25T09:52:07.208Z'
+dateModified: '2016-08-25T09:52:05.065Z'
+publisher:
+  name: Freshlysketched
+  domain: freshlysketched.com
+  url: 'http://freshlysketched.com'
+author: []
+description: >-
+  Welcome to Freshly Sketched the home of my portfolio. I have an array of work
+  from large multi national websites and online games which I have designed for
+  some of the biggest brands in the world. There is a whole host of interesting
+  infographics, pages from my sketchbook, (I never stop drawing) and some
+  detailed digital paintings.
+via: {}
+starred: false
 sourcePath: _posts/2016-02-28-freshly-sketched.md
-published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: freshly-sketched/index.html
-_context: 'http://schema.org'
-_type: Article
+_type: MediaObject
 
 ---
 # Freshly Sketched
 
-<article style=""><h1>Designer Martin Gardner based near london enjoys designing&amp;comma; sketching&amp;comma; illustrating and game design</h1><p>Welcome to Freshly Sketched the home of my portfolio&amp;period; I have an array of work from large multi national websites and online games which I have designed for some of the biggest brands in the world&amp;period; There is a whole host of interesting infographics&amp;comma; pages from my sketchbook&amp;comma; &amp;lpar;I never stop drawing&amp;rpar; and some detailed digital paintings&amp;period;</p><img src="http://freshlysketched.com/images/thumbnails/does-the-uk-still-love-games.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5142bd22c6276c1af4860f693623f82a120541d8.jpg" /><h1>Designer Martin Gardner based near london enjoys designing, sketching, illustrating and game design</h1><p>Welcome to Freshly Sketched the home of my portfolio. I have an array of work from large multi national websites and online games which I have designed for some of the biggest brands in the world. There is a whole host of interesting infographics, pages from my sketchbook, (I never stop drawing) and some detailed digital paintings.</p></article>
