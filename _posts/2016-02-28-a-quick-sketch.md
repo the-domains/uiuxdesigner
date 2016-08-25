@@ -1,21 +1,19 @@
 ---
-description: ''
-author: []
-datePublished: '2016-02-28T07:46:48.216Z'
-publisher:
-  domain: ''
-  name: ''
+isBasedOnUrl: 'urn:uuid:9c8ec668-30d5-44dc-a3ae-deac4ab01c23'
 title: A quick sketch
-dateModified: '2016-02-28T07:45:36.521Z'
+datePublished: '2016-08-25T09:52:26.206Z'
+dateModified: '2016-08-25T09:52:24.068Z'
+publisher: {}
+author: []
+description: ''
+via: {}
+starred: false
 sourcePath: _posts/2016-02-28-a-quick-sketch.md
-published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: a-quick-sketch/index.html
-_context: 'http://schema.org'
-_type: Article
+_type: MediaObject
 
 ---
 # A quick sketch
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89ab2989-acc6-4452-b1f5-05c7b6429df9.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b53b8a2f5b2c467a48c42c564e914c075e2f6bb5.png)
