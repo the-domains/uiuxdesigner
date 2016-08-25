@@ -4,8 +4,15 @@
         <description><![CDATA[uiuxdesigner]]></description>
         <link>https://thegrid.ai/uiuxdesigner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 09:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 09:52:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/uiuxdesigner/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A quick sketch]]></title>
+            <description><![CDATA[<article><h1>A quick sketch</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b53b8a2f5b2c467a48c42c564e914c075e2f6bb5.png"></article>]]></description>
+            <link>urn:uuid:9c8ec668-30d5-44dc-a3ae-deac4ab01c23</link>
+            <guid isPermaLink="false">be37ec7e-1ea1-4ee0-a7c2-67acac26194f</guid>
+            <pubDate>Thu, 25 Aug 2016 09:52:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Freshly Sketched]]></title>
             <description><![CDATA[<article><h1>Freshly Sketched</h1><p>Welcome to Freshly Sketched the home of my portfolio. I have an array of work from large multi national websites and online games which I have designed for some of the biggest brands in the world. There is a whole host of interesting infographics, pages from my sketchbook, (I never stop drawing) and some detailed digital paintings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5142bd22c6276c1af4860f693623f82a120541d8.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>urn:uuid:93ebe87d-8cda-4634-86d7-8d85616ca6a1</link>
             <guid isPermaLink="false">e10692b3-a9e0-4e71-aff1-ce2fcff39e89</guid>
             <pubDate>Thu, 25 Aug 2016 09:51:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A quick sketch]]></title>
-            <description><![CDATA[<article><h1>A quick sketch</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b53b8a2f5b2c467a48c42c564e914c075e2f6bb5.png"></article>]]></description>
-            <link>https://thegrid.ai/uiuxdesigner/a-quick-sketch/index.html</link>
-            <guid isPermaLink="false">be37ec7e-1ea1-4ee0-a7c2-67acac26194f</guid>
-            <pubDate>Sun, 28 Feb 2016 07:46:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
